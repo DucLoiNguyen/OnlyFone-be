@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping("/")
     public String sayHello() {
-        return "Hello World! This is my first Spring Boot application.";
+        return "Lê Đức Long ăn cức";
     }
 }
